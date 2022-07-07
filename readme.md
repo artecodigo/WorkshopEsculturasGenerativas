@@ -23,7 +23,7 @@ Clean and scale the .stl in Blender and prepare in Cura for 3d printing. 3D prin
 - 2015 Generative Sculptures, DAR, Caldas da Rainha
 
 ### License
-- (c) 2014-16 s373.net/x, (c) 2022 ArtCódigo
+- (c) 2014-16 s373.net/x, (c) 2022 ArteCódigo
 - MIT
 
 
