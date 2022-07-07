@@ -1,0 +1,108 @@
+INSTALL s373.marchingcubes
+
+
+s373.marchingcubes for Processing
+
+- folder exists "~/Documents/Processing/libraries"
+- download "marchingcubes-10.zip" from http://s373.net/code/marchingcubes/#download
+- unzip & rename folder to "marchingcubes"
+- move folder to "~/Documents/Processing/libraries/marchingcubes"
+- restart Processing, ready to go (library examples at File>Examples>Contributed Libraries>marchingcubes)
+
+
+
+s373.marchingcubes for openFrameworks
+
+- folder exists "OpenFrameworks/addons"
+- download/clone from https://github.com/s373/ofxMarchingCubes
+- unzip & rename folder to "ofxMarchingCubes"
+- move folder to "OpenFrameworks/addons/ofxMarchingCubes"
+- ready to start compiling!
+
+
+
+
+
+
+s373.marchingcubes for Processing folder structure
+
+
+marchingcubes-10:
+	examples:
+		HelloMarchingCubes:
+			HelloMarchingCubes.pde
+		MarchingRandom:
+			MarchingRandom.pde
+		ParticlesMarching:
+			Part.pde
+			ParticlesMarching.pde
+	library:
+		marchingcubes.jar
+	library.properties
+	reference:
+		allclasses-frame.html
+		allclasses-noframe.html
+		constant-values.html
+		deprecated-list.html
+		help-doc.html
+		index-all.html
+		index.html
+		overview-tree.html
+		package-list
+		resources:
+			inherit.gif
+		s373:
+			marchingcubes:
+				GRIDCELL.html
+				MarchingCubes.html
+				package-frame.html
+				package-summary.html
+				package-tree.html
+				RndUtils.html
+				TRIANGLE.html
+				XYZ.html
+		stylesheet.css
+	src:
+		s373:
+			marchingcubes:
+				GRIDCELL.java
+				MarchingCubes.java
+				RndUtils.java
+				TRIANGLE.java
+				XYZ.java
+
+
+
+
+
+s373.marchingcubes for OpenFrameworks folder structure
+
+ofxMarchingCubes-master:
+	example_drawMarchingCubes:
+		addons.make
+		bin:
+			data:
+				.gitkeep
+				32x32x32-2115.stl
+		example_drawMarchingCubes.xcodeproj:
+			project.pbxproj
+			project.xcworkspace:
+				contents.xcworkspacedata
+			xcshareddata:
+				xcschemes:
+					example_drawMarchingCubes Debug.xcscheme
+					example_drawMarchingCubes Release.xcscheme
+		openFrameworks-Info.plist
+		Project.xcconfig
+		src:
+			main.cpp
+			testApp.cpp
+			testApp.h
+	readme.md
+	src:
+		mGridCell.h
+		mTables.h
+		mTriangle.h
+		ofxMarchingCubes.cpp
+		ofxMarchingCubes.h
+
