@@ -29,10 +29,10 @@ Clean and scale the .stl in Blender and prepare in Cura for 3d printing. 3D prin
 
 ### Images
 
-![](./MODELOSFbaul-17April2016/EsculturasGenerativasAlpha0.png)
+![](./MODELOSFbaul-17Abril2016/EsculturasGenerativasAlpha0.png)
 
-![](./MODELOSFbaul-17April2016/EsculturasGenerativasAlpha.png)
+![](./MODELOSFbaul-17Abril2016/EsculturasGenerativasAlpha.png)
 
-![](./MODELOSFbaul-17April2016/EsculturasGenerativasAlpha1.png)
+![](./MODELOSFbaul-17Abril2016/EsculturasGenerativasAlpha1.png)
 
-![](./MODELOSZaratan-9April2016/starfield/731.jpg)
+![](./MODELOSZaratan-9Abril2016/starfield/731.jpg)
